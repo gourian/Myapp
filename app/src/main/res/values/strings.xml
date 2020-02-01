@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MobioticsTaskApp</string>
+    <string name="btnencrypt">Encrypt</string>
+    <string name="btnDecrypt">Decrypt</string>
+</resources>
